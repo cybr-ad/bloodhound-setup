@@ -10,6 +10,7 @@ An automated, robust, and clean setup script for deploying and managing **BloodH
 ## ⚡ Quick Start
 ```bash
 git clone https://github.com/cybr-ad/bloodhound-setup.git
+cd bloodhound-setup
 chmod +x bloodhound-setup.sh
 sudo ./bloodhound-setup.sh
 ```
