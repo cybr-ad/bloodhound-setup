@@ -8,20 +8,11 @@ An automated, robust, and clean setup script for deploying and managing **BloodH
 ---
 
 ## ⚡ Quick Start
-
-### 1. Make the script executable
 ```bash
+git clone https://github.com/cybr-ad/bloodhound-setup.git
 chmod +x bloodhound-setup.sh
-```
-
-### 2. Run the installer
-```bash
 sudo ./bloodhound-setup.sh
 ```
-
-*(For unattended/automated execution without prompts, pass `-y`: `sudo ./bloodhound-setup.sh -y`)*
-
----
 
 ## 🚀 Key Features
 
